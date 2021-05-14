@@ -1,0 +1,8 @@
+<!--pages/typeview/typeview.wxml-->
+<view class="container">
+ <view class="button-area">
+  <button bindtap='toContextView'  class="types">人格障碍</button>
+  <button   class="types">敬请期待...</button>
+ </view>
+<image class='background' src="../../images/types.png" ></image>
+</view>

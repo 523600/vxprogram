@@ -1,0 +1,12 @@
+<view class="content">
+
+<image class='background' src="../../images/12.jpg"   ></image>
+<view >
+	<button size="mini" bindtap="show" class="bt1" style="left:40%;top:5%">Show</button>
+	<button size="mini" bindtap="f" class="bt" style="left:60%;top:5%">Next</button>
+	<text class="view" style="left:5%;top:20%">{{question}}\n</text>
+	<text class="view" style="left:60%;top:20%">{{ans}}</text>
+	
+</view>
+
+</view>

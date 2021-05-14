@@ -1,0 +1,32 @@
+{
+  "pages": [
+
+    "pages/login/index",
+    "pages/analysis/analysis",
+    "pages/result/result",
+    "pages/typeview/typeview",
+    "pages/index/index",
+    "pages/regist/index",
+    "pages/findpassword/index",
+    "pages/history/history",
+    "pages/skskd/select",
+    "pages/Q1/6",
+    "pages/Q2/7",
+    "pages/Q3/8",
+    "pages/Q4/9",
+    "pages/Q5/10",
+    "pages/Q6/11",
+    "pages/Q7/12",
+    "pages/Q8/13",
+    "pages/Q9/14",
+    "pages/Q10/15"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

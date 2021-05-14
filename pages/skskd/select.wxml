@@ -1,0 +1,17 @@
+<view class="content">
+  <image class='background' src="../../images/bg.jpg"   ></image>
+  
+  <button size="mini" class="view"   bindtap = 'f1' style="left:50%;top:32%">1</button>
+  <button size="mini" class="view"  bindtap="f2" style="left:50%;top:40%">2</button>
+  <button size="mini" class="view"  bindtap="f3" style="left:50%;top:48%">3</button>
+  <button size="mini" class="view"   bindtap="f4"  style="left:50%;top:58%">4</button>
+  <button size="mini" class="view"   bindtap="f5"  style="left:50%;top:66%">5</button>
+  <button size="mini"class="view"  bindtap = 'f6' style="left:78%;top:32%">6</button>
+  <button size="mini" class="view"  bindtap="f7" style="left:78%;top:40%">7</button>
+  <button size="mini" class="view" bindtap="f8" style="left:78%;top:48%">8</button>
+  <button size="mini" class="view" bindtap="f9"  style="left:78%;top:58%">9</button>
+  <button size="mini" class="view" bindtap="f10" style="left:78%;top:66%">10</button>
+</view>
+
+
+

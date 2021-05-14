@@ -1,0 +1,12 @@
+<!--pages/analysis/analysis.wxml-->
+<view class="content">    
+  <view class="block"></view>
+  <view class="myanswer">你的答案：{{myanswer}}</view>
+  <view class="analysis">结果分析：</view>
+  <text>{{analysis}}</text>
+  <button class="btn" bindtap="toindex">返回首页</button>
+
+
+    <image class='background' src="../../images/analysis.png" ></image>
+</view>
+

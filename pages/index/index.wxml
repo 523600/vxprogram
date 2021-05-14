@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <text class="hello">您好，{{username}}！</text>   
+  <image class="history" bindtap="tohistory" src="../../images/history.png"></image>
+  <view class="usermotto">
+    <button type="primary" bindtap='toTypeView' class="user-motto">{{motto}}</button>
+  </view>
+  <image class='background' src="../../images/1.png" ></image>
+ 
+</view>

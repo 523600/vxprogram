@@ -1,0 +1,18 @@
+<view class="content">    
+  <view class="block"></view>
+    <form bindsubmit="formSubmit" class="form">
+      <view class="txt-area">
+          <text class="txt">诊断结果</text>
+            </view>
+        <view class="input-area">
+          <input  bindinput="bindKeyInput"  class="txt2" id="result" name="result" maxlength='40' type="text" placeholder="请输入诊断结果" />
+        </view>
+        <view class="btn-area">
+            <button   formType="submit" bindtap="toAnalysisPage"  > 确认结果</button>
+        </view>
+    </form>
+    <!-- <image class='background' src="../../images/2.png" ></image> -->
+    <!--<progress class="myprogress" percent="{{percent }}" color="{{color}}" active/>-->
+
+    <image class='background' src="../../images/result.png" ></image>
+</view>
